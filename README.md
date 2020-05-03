@@ -1,8 +1,6 @@
-![ClimaCell](https://www.climacell.co/wp-content/uploads/2018/07/CC-logo-base-black-w_blue-icon-300.png "ClimaCell")
 
 # DevOps Exercise (Submission notes [here](SUBMISSION.md))
-Welcome to ClimaCell!
-We are excited to move forward and give you the homework assignment.  
+
 The purpose of this assignment is twofold: not only will it help us assess your skill-set, but it will also help you understand the type of challenges we currently work on and ask yourself if these challenges are of the kind you would be interested in.
 
 ## The Users Service
@@ -133,4 +131,4 @@ Continue to CD as defined above.
 
 **GOOD LUCK!**
 
-**The ClimaCell Team**
+
